@@ -1,7 +1,7 @@
 # ✅ Cronograma de Estudos – Rech 2025
 
-## Semana 1 (19/08 – 25/08)
-- [ ] **Seg:** Álgebra básica (equações, inequações)  
+## Semana 1 (18/08 – 25/08)
+- [x] **Seg:** Álgebra básica (equações, inequações)  
 - [ ] **Ter:** Variáveis e tipos em Python  
 - [ ] **Qua:** Regra de 3 simples + if/else  
 - [ ] **Qui:** Expressões algébricas + operadores lógicos  
@@ -148,3 +148,5 @@
 - [Neps Academy](https://neps.academy/)  
 - [LeetCode – Problemas Easy](https://leetcode.com/problemset/all/?difficulty=EASY)  
 - [RapidTables – Conversões Numéricas](https://www.rapidtables.com/convert/number/index.html)  
+
+### Teste
